@@ -57,14 +57,21 @@ body {
     text-align: center; 
     font-size: 24px; 
     margin: 0; 
-    padding: 10px; 
+    padding: 0px; 
+}
+
+.normalText {
+    text-align: center; 
+    font-size: 20px; 
+    margin: 0; 
+    padding: 0px; 
 }
 
 .smallText {
     text-align: center; 
     font-size: 12px; 
     margin: 0; 
-    padding: 10px; 
+    padding: 0px; 
 }
 
 .separator {
